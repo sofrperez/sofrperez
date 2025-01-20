@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on finishing my degree at Utah State University!
+- 🌱 I’m currently dual majoring in Data Analytics and Information Systems with an emphasis in Data Engineering
+- - 💬 Ask me anything about movies! I'm a big film nerd!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love rock climbing!
 <!--
 **sofrperez/sofrperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
